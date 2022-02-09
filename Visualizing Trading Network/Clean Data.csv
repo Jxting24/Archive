@@ -1,0 +1,529 @@
+Source ID,Year,Series,Target ID,Value,Name
+Argentina,2020.0,Major trading partner 1 (% of exports),Brazil,14.5,Argentina
+Argentina,2020.0,Major trading partner 1 (% of imports),China,20.4,Argentina
+Argentina,2020.0,Major trading partner 2 (% of exports),China,9.6,Argentina
+Argentina,2020.0,Major trading partner 2 (% of imports),Brazil,20.4,Argentina
+Argentina,2020.0,Major trading partner 3 (% of exports),United States,6.0,Argentina
+Argentina,2020.0,Major trading partner 3 (% of imports),United States,10.4,Argentina
+Australia,2020.0,Major trading partner 1 (% of exports),China,40.8,Australia
+Australia,2020.0,Major trading partner 1 (% of imports),China,28.8,Australia
+Australia,2020.0,Major trading partner 2 (% of exports),Japan,12.4,Australia
+Australia,2020.0,Major trading partner 2 (% of imports),United States,11.9,Australia
+Australia,2020.0,Major trading partner 3 (% of exports),Republic of Korea,6.5,Australia
+Australia,2020.0,Major trading partner 3 (% of imports),Japan,6.0,Australia
+Belgium,2020.0,Major trading partner 1 (% of exports),Germany,16.6,Belgium
+Belgium,2020.0,Major trading partner 1 (% of imports),Netherlands,19.0,Belgium
+Belgium,2020.0,Major trading partner 2 (% of exports),France,13.2,Belgium
+Belgium,2020.0,Major trading partner 2 (% of imports),Germany,14.4,Belgium
+Belgium,2020.0,Major trading partner 3 (% of exports),Netherlands,11.6,Belgium
+Belgium,2020.0,Major trading partner 3 (% of imports),France,11.2,Belgium
+Brazil,2020.0,Major trading partner 1 (% of exports),China,32.4,Brazil
+Brazil,2020.0,Major trading partner 1 (% of imports),China,22.1,Brazil
+Brazil,2020.0,Major trading partner 2 (% of exports),United States,10.3,Brazil
+Brazil,2020.0,Major trading partner 2 (% of imports),United States,17.9,Brazil
+Brazil,2020.0,Major trading partner 3 (% of exports),Argentina,4.1,Brazil
+Brazil,2020.0,Major trading partner 3 (% of imports),Germany,5.8,Brazil
+Canada,2020.0,Major trading partner 1 (% of exports),United States,73.4,Canada
+Canada,2020.0,Major trading partner 1 (% of imports),United States,48.7,Canada
+Canada,2020.0,Major trading partner 2 (% of exports),China,4.8,Canada
+Canada,2020.0,Major trading partner 2 (% of imports),China,14.1,Canada
+Canada,2020.0,Major trading partner 3 (% of exports),United Kingdom,3.8,Canada
+Canada,2020.0,Major trading partner 3 (% of imports),Mexico,5.5,Canada
+China,2020.0,Major trading partner 1 (% of exports),United States,17.5,China
+China,2020.0,Major trading partner 1 (% of imports),"Other Asia, nes",9.8,China
+China,2020.0,Major trading partner 2 (% of exports),"China, Hong Kong SAR",10.5,China
+China,2020.0,Major trading partner 2 (% of imports),Japan,8.5,China
+China,2020.0,Major trading partner 3 (% of exports),Japan,5.5,China
+China,2020.0,Major trading partner 3 (% of imports),Republic of Korea,8.4,China
+"China, Hong Kong SAR",2020.0,Major trading partner 1 (% of exports),China,55.2,"China, Hong Kong SAR"
+"China, Hong Kong SAR",2020.0,Major trading partner 1 (% of imports),China,43.8,"China, Hong Kong SAR"
+"China, Hong Kong SAR",2020.0,Major trading partner 2 (% of exports),United States,7.2,"China, Hong Kong SAR"
+"China, Hong Kong SAR",2020.0,Major trading partner 2 (% of imports),"Other Asia, nes",9.4,"China, Hong Kong SAR"
+"China, Hong Kong SAR",2020.0,Major trading partner 3 (% of exports),United Kingdom,3.3,"China, Hong Kong SAR"
+"China, Hong Kong SAR",2020.0,Major trading partner 3 (% of imports),Singapore,7.2,"China, Hong Kong SAR"
+Denmark,2020.0,Major trading partner 1 (% of imports),Germany,21.9,Denmark
+Denmark,2020.0,Major trading partner 2 (% of exports),Germany,12.6,Denmark
+Denmark,2020.0,Major trading partner 2 (% of imports),Sweden,12.6,Denmark
+Denmark,2020.0,Major trading partner 3 (% of exports),Sweden,8.7,Denmark
+Denmark,2020.0,Major trading partner 3 (% of imports),Netherlands,8.5,Denmark
+Egypt,2020.0,Major trading partner 1 (% of exports),United Arab Emirates,10.7,Egypt
+Egypt,2020.0,Major trading partner 1 (% of imports),China,15.0,Egypt
+Egypt,2020.0,Major trading partner 2 (% of exports),Saudi Arabia,6.4,Egypt
+Egypt,2020.0,Major trading partner 2 (% of imports),United States,6.7,Egypt
+Egypt,2020.0,Major trading partner 3 (% of exports),Turkey,6.2,Egypt
+Egypt,2020.0,Major trading partner 3 (% of imports),Saudi Arabia,6.3,Egypt
+France,2020.0,Major trading partner 1 (% of exports),Germany,14.3,France
+France,2020.0,Major trading partner 1 (% of imports),Germany,17.3,France
+France,2020.0,Major trading partner 2 (% of exports),Italy,7.6,France
+France,2020.0,Major trading partner 2 (% of imports),Belgium,9.6,France
+France,2020.0,Major trading partner 3 (% of exports),United States,7.6,France
+France,2020.0,Major trading partner 3 (% of imports),Netherlands,8.6,France
+Germany,2020.0,Major trading partner 1 (% of exports),United States,8.6,Germany
+Germany,2020.0,Major trading partner 1 (% of imports),China,11.4,Germany
+Germany,2020.0,Major trading partner 2 (% of exports),China,8.0,Germany
+Germany,2020.0,Major trading partner 2 (% of imports),Netherlands,7.7,Germany
+Germany,2020.0,Major trading partner 3 (% of exports),France,7.5,Germany
+Germany,2020.0,Major trading partner 3 (% of imports),United States,6.7,Germany
+Greece,2020.0,Major trading partner 1 (% of exports),Italy,10.5,Greece
+Greece,2020.0,Major trading partner 1 (% of imports),Germany,11.9,Greece
+Greece,2020.0,Major trading partner 2 (% of exports),Germany,7.7,Greece
+Greece,2020.0,Major trading partner 2 (% of imports),Italy,8.3,Greece
+Greece,2020.0,Major trading partner 3 (% of imports),China,7.7,Greece
+India,2020.0,Major trading partner 1 (% of exports),United States,17.9,India
+India,2020.0,Major trading partner 1 (% of imports),China,16.0,India
+India,2020.0,Major trading partner 2 (% of exports),China,6.9,India
+India,2020.0,Major trading partner 2 (% of imports),United States,7.2,India
+India,2020.0,Major trading partner 3 (% of exports),United Arab Emirates,6.5,India
+India,2020.0,Major trading partner 3 (% of imports),United Arab Emirates,6.5,India
+Ireland,2020.0,Major trading partner 1 (% of exports),United States,30.9,Ireland
+Ireland,2020.0,Major trading partner 1 (% of imports),United Kingdom,22.9,Ireland
+Ireland,2020.0,Major trading partner 2 (% of exports),Belgium,11.1,Ireland
+Ireland,2020.0,Major trading partner 2 (% of imports),United States,15.1,Ireland
+Ireland,2020.0,Major trading partner 3 (% of exports),Germany,10.8,Ireland
+Ireland,2020.0,Major trading partner 3 (% of imports),France,11.1,Ireland
+Italy,2020.0,Major trading partner 1 (% of exports),Germany,12.8,Italy
+Italy,2020.0,Major trading partner 1 (% of imports),Germany,16.3,Italy
+Italy,2020.0,Major trading partner 2 (% of exports),France,10.3,Italy
+Italy,2020.0,Major trading partner 2 (% of imports),China,8.7,Italy
+Italy,2020.0,Major trading partner 3 (% of exports),United States,9.8,Italy
+Italy,2020.0,Major trading partner 3 (% of imports),France,8.5,Italy
+Japan,2020.0,Major trading partner 1 (% of exports),China,22.0,Japan
+Japan,2020.0,Major trading partner 1 (% of imports),China,25.8,Japan
+Japan,2020.0,Major trading partner 2 (% of exports),United States,18.5,Japan
+Japan,2020.0,Major trading partner 2 (% of imports),United States,11.3,Japan
+Japan,2020.0,Major trading partner 3 (% of exports),Republic of Korea,7.0,Japan
+Japan,2020.0,Major trading partner 3 (% of imports),Australia,5.6,Japan
+Kazakhstan,2020.0,Major trading partner 1 (% of exports),Italy,14.5,Kazakhstan
+Kazakhstan,2020.0,Major trading partner 1 (% of imports),Russian Federation,36.7,Kazakhstan
+Kazakhstan,2020.0,Major trading partner 2 (% of exports),China,13.6,Kazakhstan
+Kazakhstan,2020.0,Major trading partner 2 (% of imports),China,17.1,Kazakhstan
+Kazakhstan,2020.0,Major trading partner 3 (% of exports),Russian Federation,9.7,Kazakhstan
+Kazakhstan,2020.0,Major trading partner 3 (% of imports),Republic of Korea,8.9,Kazakhstan
+Kenya,2020.0,Major trading partner 1 (% of exports),Uganda,11.2,Kenya
+Kenya,2020.0,Major trading partner 1 (% of imports),China,22.0,Kenya
+Kenya,2020.0,Major trading partner 2 (% of exports),Pakistan,8.5,Kenya
+Kenya,2020.0,Major trading partner 2 (% of imports),India,11.5,Kenya
+Kenya,2020.0,Major trading partner 3 (% of exports),United Kingdom,7.8,Kenya
+Kenya,2020.0,Major trading partner 3 (% of imports),United Arab Emirates,5.6,Kenya
+Malaysia,2020.0,Major trading partner 1 (% of exports),China,14.2,Malaysia
+Malaysia,2020.0,Major trading partner 1 (% of imports),China,20.7,Malaysia
+Malaysia,2020.0,Major trading partner 2 (% of exports),Singapore,13.9,Malaysia
+Malaysia,2020.0,Major trading partner 2 (% of imports),Singapore,10.5,Malaysia
+Malaysia,2020.0,Major trading partner 3 (% of exports),United States,9.7,Malaysia
+Malaysia,2020.0,Major trading partner 3 (% of imports),United States,8.1,Malaysia
+Mexico,2020.0,Major trading partner 1 (% of exports),United States,79.1,Mexico
+Mexico,2020.0,Major trading partner 1 (% of imports),United States,43.9,Mexico
+Mexico,2020.0,Major trading partner 2 (% of exports),Canada,2.6,Mexico
+Mexico,2020.0,Major trading partner 2 (% of imports),China,19.2,Mexico
+Mexico,2020.0,Major trading partner 3 (% of imports),Republic of Korea,3.8,Mexico
+Netherlands,2020.0,Major trading partner 1 (% of exports),Germany,22.0,Netherlands
+Netherlands,2020.0,Major trading partner 1 (% of imports),Germany,17.7,Netherlands
+Netherlands,2020.0,Major trading partner 2 (% of exports),Belgium,10.3,Netherlands
+Netherlands,2020.0,Major trading partner 2 (% of imports),China,10.5,Netherlands
+Netherlands,2020.0,Major trading partner 3 (% of exports),France,7.7,Netherlands
+Netherlands,2020.0,Major trading partner 3 (% of imports),Belgium,9.8,Netherlands
+New Zealand,2020.0,Major trading partner 1 (% of exports),China,27.8,New Zealand
+New Zealand,2020.0,Major trading partner 1 (% of imports),China,22.6,New Zealand
+New Zealand,2020.0,Major trading partner 2 (% of exports),Australia,13.6,New Zealand
+New Zealand,2020.0,Major trading partner 2 (% of imports),Australia,12.1,New Zealand
+New Zealand,2020.0,Major trading partner 3 (% of exports),United States,11.0,New Zealand
+New Zealand,2020.0,Major trading partner 3 (% of imports),United States,9.7,New Zealand
+Nigeria,2020.0,Major trading partner 1 (% of exports),India,15.4,Nigeria
+Nigeria,2020.0,Major trading partner 1 (% of imports),China,25.5,Nigeria
+Nigeria,2020.0,Major trading partner 2 (% of exports),Spain,9.9,Nigeria
+Nigeria,2020.0,Major trading partner 2 (% of imports),India,12.0,Nigeria
+Nigeria,2020.0,Major trading partner 3 (% of exports),Netherlands,9.1,Nigeria
+Nigeria,2020.0,Major trading partner 3 (% of imports),United States,9.9,Nigeria
+Norway,2020.0,Major trading partner 1 (% of exports),United Kingdom,17.4,Norway
+Norway,2020.0,Major trading partner 1 (% of imports),China,12.1,Norway
+Norway,2020.0,Major trading partner 2 (% of exports),Germany,11.7,Norway
+Norway,2020.0,Major trading partner 2 (% of imports),Germany,11.5,Norway
+Norway,2020.0,Major trading partner 3 (% of exports),Netherlands,9.9,Norway
+Norway,2020.0,Major trading partner 3 (% of imports),Sweden,10.7,Norway
+Pakistan,2020.0,Major trading partner 1 (% of exports),United States,18.6,Pakistan
+Pakistan,2020.0,Major trading partner 1 (% of imports),China,27.3,Pakistan
+Pakistan,2020.0,Major trading partner 2 (% of exports),China,8.4,Pakistan
+Pakistan,2020.0,Major trading partner 2 (% of imports),United Arab Emirates,9.8,Pakistan
+Pakistan,2020.0,Major trading partner 3 (% of exports),United Kingdom,7.8,Pakistan
+Pakistan,2020.0,Major trading partner 3 (% of imports),United States,5.6,Pakistan
+Panama,2020.0,Major trading partner 1 (% of imports),China,24.7,Panama
+Panama,2020.0,Major trading partner 2 (% of exports),United States,11.8,Panama
+Panama,2020.0,Major trading partner 2 (% of imports),United States,16.2,Panama
+Panama,2020.0,Major trading partner 3 (% of imports),Japan,13.0,Panama
+Poland,2020.0,Major trading partner 1 (% of exports),Germany,28.9,Poland
+Poland,2020.0,Major trading partner 1 (% of imports),Germany,21.9,Poland
+Poland,2020.0,Major trading partner 2 (% of imports),China,14.4,Poland
+Poland,2020.0,Major trading partner 3 (% of exports),United Kingdom,5.7,Poland
+Poland,2020.0,Major trading partner 3 (% of imports),Italy,5.0,Poland
+Portugal,2020.0,Major trading partner 1 (% of exports),Spain,25.4,Portugal
+Portugal,2020.0,Major trading partner 1 (% of imports),Spain,32.6,Portugal
+Portugal,2020.0,Major trading partner 2 (% of exports),France,13.5,Portugal
+Portugal,2020.0,Major trading partner 2 (% of imports),Germany,13.3,Portugal
+Portugal,2020.0,Major trading partner 3 (% of exports),Germany,11.8,Portugal
+Portugal,2020.0,Major trading partner 3 (% of imports),France,7.4,Portugal
+Republic of Korea,2020.0,Major trading partner 1 (% of exports),China,25.9,Republic of Korea
+Republic of Korea,2020.0,Major trading partner 1 (% of imports),China,23.3,Republic of Korea
+Republic of Korea,2020.0,Major trading partner 2 (% of exports),United States,14.5,Republic of Korea
+Republic of Korea,2020.0,Major trading partner 2 (% of imports),United States,12.4,Republic of Korea
+Republic of Korea,2020.0,Major trading partner 3 (% of exports),Viet Nam,9.5,Republic of Korea
+Republic of Korea,2020.0,Major trading partner 3 (% of imports),Japan,9.8,Republic of Korea
+Romania,2020.0,Major trading partner 1 (% of exports),Germany,22.8,Romania
+Romania,2020.0,Major trading partner 1 (% of imports),Germany,20.8,Romania
+Romania,2020.0,Major trading partner 2 (% of exports),Italy,10.7,Romania
+Romania,2020.0,Major trading partner 2 (% of imports),Italy,8.9,Romania
+Romania,2020.0,Major trading partner 3 (% of exports),France,6.7,Romania
+Russian Federation,2020.0,Major trading partner 1 (% of exports),China,13.4,Russian Federation
+Russian Federation,2020.0,Major trading partner 1 (% of imports),China,21.9,Russian Federation
+Russian Federation,2020.0,Major trading partner 2 (% of exports),Netherlands,10.5,Russian Federation
+Russian Federation,2020.0,Major trading partner 2 (% of imports),Germany,10.2,Russian Federation
+Russian Federation,2020.0,Major trading partner 3 (% of exports),Germany,6.6,Russian Federation
+Saudi Arabia,2020.0,Major trading partner 1 (% of exports),Areas nes,80.4,Saudi Arabia
+Saudi Arabia,2020.0,Major trading partner 1 (% of imports),China,18.8,Saudi Arabia
+Saudi Arabia,2020.0,Major trading partner 2 (% of exports),China,3.7,Saudi Arabia
+Saudi Arabia,2020.0,Major trading partner 2 (% of imports),United States,11.8,Saudi Arabia
+Saudi Arabia,2020.0,Major trading partner 3 (% of exports),United Arab Emirates,1.7,Saudi Arabia
+Saudi Arabia,2020.0,Major trading partner 3 (% of imports),United Arab Emirates,7.2,Saudi Arabia
+Senegal,2020.0,Major trading partner 1 (% of imports),France,15.7,Senegal
+Senegal,2020.0,Major trading partner 2 (% of exports),Switzerland,12.4,Senegal
+Senegal,2020.0,Major trading partner 2 (% of imports),China,9.2,Senegal
+Senegal,2020.0,Major trading partner 3 (% of exports),India,7.6,Senegal
+Senegal,2020.0,Major trading partner 3 (% of imports),Netherlands,6.2,Senegal
+Serbia,2020.0,Major trading partner 1 (% of exports),Germany,12.9,Serbia
+Serbia,2020.0,Major trading partner 1 (% of imports),Germany,13.6,Serbia
+Serbia,2020.0,Major trading partner 2 (% of exports),Italy,8.4,Serbia
+Serbia,2020.0,Major trading partner 2 (% of imports),China,12.5,Serbia
+Serbia,2020.0,Major trading partner 3 (% of imports),Italy,8.4,Serbia
+Singapore,2020.0,Major trading partner 1 (% of exports),China,13.2,Singapore
+Singapore,2020.0,Major trading partner 1 (% of imports),China,13.7,Singapore
+Singapore,2020.0,Major trading partner 2 (% of exports),"China, Hong Kong SAR",11.4,Singapore
+Singapore,2020.0,Major trading partner 2 (% of imports),United States,12.2,Singapore
+Singapore,2020.0,Major trading partner 3 (% of exports),Malaysia,10.5,Singapore
+Singapore,2020.0,Major trading partner 3 (% of imports),Malaysia,11.6,Singapore
+South Africa,2020.0,Major trading partner 1 (% of exports),China,11.5,South Africa
+South Africa,2020.0,Major trading partner 1 (% of imports),China,20.8,South Africa
+South Africa,2020.0,Major trading partner 2 (% of exports),United States,8.4,South Africa
+South Africa,2020.0,Major trading partner 2 (% of imports),Germany,9.1,South Africa
+South Africa,2020.0,Major trading partner 3 (% of exports),Areas nes,8.1,South Africa
+South Africa,2020.0,Major trading partner 3 (% of imports),United States,6.4,South Africa
+Spain,2020.0,Major trading partner 1 (% of exports),France,15.4,Spain
+Spain,2020.0,Major trading partner 1 (% of imports),Germany,11.8,Spain
+Spain,2020.0,Major trading partner 2 (% of exports),Germany,10.8,Spain
+Spain,2020.0,Major trading partner 2 (% of imports),China,10.2,Spain
+Spain,2020.0,Major trading partner 3 (% of exports),Italy,7.5,Spain
+Spain,2020.0,Major trading partner 3 (% of imports),France,9.9,Spain
+Sweden,2020.0,Major trading partner 1 (% of exports),Norway,10.5,Sweden
+Sweden,2020.0,Major trading partner 1 (% of imports),Germany,18.2,Sweden
+Sweden,2020.0,Major trading partner 2 (% of exports),Germany,10.4,Sweden
+Sweden,2020.0,Major trading partner 2 (% of imports),Netherlands,9.8,Sweden
+Sweden,2020.0,Major trading partner 3 (% of exports),United States,8.1,Sweden
+Sweden,2020.0,Major trading partner 3 (% of imports),Norway,9.0,Sweden
+Switzerland,2020.0,Major trading partner 1 (% of exports),United States,23.0,Switzerland
+Switzerland,2020.0,Major trading partner 1 (% of imports),Germany,19.5,Switzerland
+Switzerland,2020.0,Major trading partner 2 (% of exports),Germany,15.4,Switzerland
+Switzerland,2020.0,Major trading partner 2 (% of imports),Italy,8.2,Switzerland
+Switzerland,2020.0,Major trading partner 3 (% of exports),China,5.5,Switzerland
+Switzerland,2020.0,Major trading partner 3 (% of imports),United States,7.2,Switzerland
+Thailand,2020.0,Major trading partner 1 (% of exports),United States,12.7,Thailand
+Thailand,2020.0,Major trading partner 1 (% of imports),China,21.1,Thailand
+Thailand,2020.0,Major trading partner 2 (% of exports),China,12.0,Thailand
+Thailand,2020.0,Major trading partner 2 (% of imports),Japan,14.0,Thailand
+Thailand,2020.0,Major trading partner 3 (% of exports),Japan,9.9,Thailand
+Thailand,2020.0,Major trading partner 3 (% of imports),United States,7.4,Thailand
+Trinidad and Tobago,2020.0,Major trading partner 1 (% of exports),United States,34.5,Trinidad and Tobago
+Trinidad and Tobago,2020.0,Major trading partner 1 (% of imports),United States,46.0,Trinidad and Tobago
+Trinidad and Tobago,2020.0,Major trading partner 2 (% of exports),Spain,7.6,Trinidad and Tobago
+Trinidad and Tobago,2020.0,Major trading partner 2 (% of imports),China,6.6,Trinidad and Tobago
+Trinidad and Tobago,2020.0,Major trading partner 3 (% of exports),China,4.4,Trinidad and Tobago
+Turkey,2020.0,Major trading partner 1 (% of exports),Germany,9.4,Turkey
+Turkey,2020.0,Major trading partner 1 (% of imports),China,10.5,Turkey
+Turkey,2020.0,Major trading partner 2 (% of exports),United Kingdom,6.6,Turkey
+Turkey,2020.0,Major trading partner 2 (% of imports),Germany,9.9,Turkey
+Turkey,2020.0,Major trading partner 3 (% of exports),United States,6.0,Turkey
+Turkey,2020.0,Major trading partner 3 (% of imports),Russian Federation,8.1,Turkey
+Uganda,2020.0,Major trading partner 1 (% of exports),United Arab Emirates,44.5,Uganda
+Uganda,2020.0,Major trading partner 1 (% of imports),China,16.4,Uganda
+Uganda,2020.0,Major trading partner 2 (% of exports),Kenya,11.2,Uganda
+Uganda,2020.0,Major trading partner 2 (% of imports),India,11.6,Uganda
+Uganda,2020.0,Major trading partner 3 (% of imports),Kenya,9.4,Uganda
+United Arab Emirates,2020.0,Major trading partner 1 (% of exports),Areas nes,51.8,United Arab Emirates
+United Arab Emirates,2020.0,Major trading partner 1 (% of imports),China,16.4,United Arab Emirates
+United Arab Emirates,2020.0,Major trading partner 2 (% of exports),Saudi Arabia,6.2,United Arab Emirates
+United Arab Emirates,2020.0,Major trading partner 2 (% of imports),India,10.7,United Arab Emirates
+United Arab Emirates,2020.0,Major trading partner 3 (% of exports),India,3.8,United Arab Emirates
+United Arab Emirates,2020.0,Major trading partner 3 (% of imports),United States,8.0,United Arab Emirates
+United Kingdom,2020.0,Major trading partner 1 (% of exports),United States,14.4,United Kingdom
+United Kingdom,2020.0,Major trading partner 1 (% of imports),China,11.9,United Kingdom
+United Kingdom,2020.0,Major trading partner 2 (% of exports),Germany,10.3,United Kingdom
+United Kingdom,2020.0,Major trading partner 2 (% of imports),Germany,11.6,United Kingdom
+United Kingdom,2020.0,Major trading partner 3 (% of exports),Ireland,6.8,United Kingdom
+United Kingdom,2020.0,Major trading partner 3 (% of imports),United States,9.2,United Kingdom
+Viet Nam,2020.0,Major trading partner 1 (% of exports),United States,23.2,Viet Nam
+Viet Nam,2020.0,Major trading partner 1 (% of imports),China,29.8,Viet Nam
+Viet Nam,2020.0,Major trading partner 2 (% of exports),China,15.7,Viet Nam
+Viet Nam,2020.0,Major trading partner 2 (% of imports),Republic of Korea,18.5,Viet Nam
+Viet Nam,2020.0,Major trading partner 3 (% of exports),Japan,7.7,Viet Nam
+Viet Nam,2020.0,Major trading partner 3 (% of imports),Japan,7.7,Viet Nam
+Argentina,2020.0,Major trading partner 1 (% of exports),Brazil,14.5,Brazil
+Argentina,2020.0,Major trading partner 1 (% of imports),China,20.4,China
+Argentina,2020.0,Major trading partner 2 (% of exports),China,9.6,China
+Argentina,2020.0,Major trading partner 2 (% of imports),Brazil,20.4,Brazil
+Argentina,2020.0,Major trading partner 3 (% of exports),United States,6.0,United States
+Argentina,2020.0,Major trading partner 3 (% of imports),United States,10.4,United States
+Australia,2020.0,Major trading partner 1 (% of exports),China,40.8,China
+Australia,2020.0,Major trading partner 1 (% of imports),China,28.8,China
+Australia,2020.0,Major trading partner 2 (% of exports),Japan,12.4,Japan
+Australia,2020.0,Major trading partner 2 (% of imports),United States,11.9,United States
+Australia,2020.0,Major trading partner 3 (% of exports),Republic of Korea,6.5,Republic of Korea
+Australia,2020.0,Major trading partner 3 (% of imports),Japan,6.0,Japan
+Belgium,2020.0,Major trading partner 1 (% of exports),Germany,16.6,Germany
+Belgium,2020.0,Major trading partner 1 (% of imports),Netherlands,19.0,Netherlands
+Belgium,2020.0,Major trading partner 2 (% of exports),France,13.2,France
+Belgium,2020.0,Major trading partner 2 (% of imports),Germany,14.4,Germany
+Belgium,2020.0,Major trading partner 3 (% of exports),Netherlands,11.6,Netherlands
+Belgium,2020.0,Major trading partner 3 (% of imports),France,11.2,France
+Brazil,2020.0,Major trading partner 1 (% of exports),China,32.4,China
+Brazil,2020.0,Major trading partner 1 (% of imports),China,22.1,China
+Brazil,2020.0,Major trading partner 2 (% of exports),United States,10.3,United States
+Brazil,2020.0,Major trading partner 2 (% of imports),United States,17.9,United States
+Brazil,2020.0,Major trading partner 3 (% of exports),Argentina,4.1,Argentina
+Brazil,2020.0,Major trading partner 3 (% of imports),Germany,5.8,Germany
+Canada,2020.0,Major trading partner 1 (% of exports),United States,73.4,United States
+Canada,2020.0,Major trading partner 1 (% of imports),United States,48.7,United States
+Canada,2020.0,Major trading partner 2 (% of exports),China,4.8,China
+Canada,2020.0,Major trading partner 2 (% of imports),China,14.1,China
+Canada,2020.0,Major trading partner 3 (% of exports),United Kingdom,3.8,United Kingdom
+Canada,2020.0,Major trading partner 3 (% of imports),Mexico,5.5,Mexico
+China,2020.0,Major trading partner 1 (% of exports),United States,17.5,United States
+China,2020.0,Major trading partner 1 (% of imports),"Other Asia, nes",9.8,"Other Asia, nes"
+China,2020.0,Major trading partner 2 (% of exports),"China, Hong Kong SAR",10.5,"China, Hong Kong SAR"
+China,2020.0,Major trading partner 2 (% of imports),Japan,8.5,Japan
+China,2020.0,Major trading partner 3 (% of exports),Japan,5.5,Japan
+China,2020.0,Major trading partner 3 (% of imports),Republic of Korea,8.4,Republic of Korea
+"China, Hong Kong SAR",2020.0,Major trading partner 1 (% of exports),China,55.2,China
+"China, Hong Kong SAR",2020.0,Major trading partner 1 (% of imports),China,43.8,China
+"China, Hong Kong SAR",2020.0,Major trading partner 2 (% of exports),United States,7.2,United States
+"China, Hong Kong SAR",2020.0,Major trading partner 2 (% of imports),"Other Asia, nes",9.4,"Other Asia, nes"
+"China, Hong Kong SAR",2020.0,Major trading partner 3 (% of exports),United Kingdom,3.3,United Kingdom
+"China, Hong Kong SAR",2020.0,Major trading partner 3 (% of imports),Singapore,7.2,Singapore
+Denmark,2020.0,Major trading partner 1 (% of imports),Germany,21.9,Germany
+Denmark,2020.0,Major trading partner 2 (% of exports),Germany,12.6,Germany
+Denmark,2020.0,Major trading partner 2 (% of imports),Sweden,12.6,Sweden
+Denmark,2020.0,Major trading partner 3 (% of exports),Sweden,8.7,Sweden
+Denmark,2020.0,Major trading partner 3 (% of imports),Netherlands,8.5,Netherlands
+Egypt,2020.0,Major trading partner 1 (% of exports),United Arab Emirates,10.7,United Arab Emirates
+Egypt,2020.0,Major trading partner 1 (% of imports),China,15.0,China
+Egypt,2020.0,Major trading partner 2 (% of exports),Saudi Arabia,6.4,Saudi Arabia
+Egypt,2020.0,Major trading partner 2 (% of imports),United States,6.7,United States
+Egypt,2020.0,Major trading partner 3 (% of exports),Turkey,6.2,Turkey
+Egypt,2020.0,Major trading partner 3 (% of imports),Saudi Arabia,6.3,Saudi Arabia
+France,2020.0,Major trading partner 1 (% of exports),Germany,14.3,Germany
+France,2020.0,Major trading partner 1 (% of imports),Germany,17.3,Germany
+France,2020.0,Major trading partner 2 (% of exports),Italy,7.6,Italy
+France,2020.0,Major trading partner 2 (% of imports),Belgium,9.6,Belgium
+France,2020.0,Major trading partner 3 (% of exports),United States,7.6,United States
+France,2020.0,Major trading partner 3 (% of imports),Netherlands,8.6,Netherlands
+Germany,2020.0,Major trading partner 1 (% of exports),United States,8.6,United States
+Germany,2020.0,Major trading partner 1 (% of imports),China,11.4,China
+Germany,2020.0,Major trading partner 2 (% of exports),China,8.0,China
+Germany,2020.0,Major trading partner 2 (% of imports),Netherlands,7.7,Netherlands
+Germany,2020.0,Major trading partner 3 (% of exports),France,7.5,France
+Germany,2020.0,Major trading partner 3 (% of imports),United States,6.7,United States
+Greece,2020.0,Major trading partner 1 (% of exports),Italy,10.5,Italy
+Greece,2020.0,Major trading partner 1 (% of imports),Germany,11.9,Germany
+Greece,2020.0,Major trading partner 2 (% of exports),Germany,7.7,Germany
+Greece,2020.0,Major trading partner 2 (% of imports),Italy,8.3,Italy
+Greece,2020.0,Major trading partner 3 (% of imports),China,7.7,China
+India,2020.0,Major trading partner 1 (% of exports),United States,17.9,United States
+India,2020.0,Major trading partner 1 (% of imports),China,16.0,China
+India,2020.0,Major trading partner 2 (% of exports),China,6.9,China
+India,2020.0,Major trading partner 2 (% of imports),United States,7.2,United States
+India,2020.0,Major trading partner 3 (% of exports),United Arab Emirates,6.5,United Arab Emirates
+India,2020.0,Major trading partner 3 (% of imports),United Arab Emirates,6.5,United Arab Emirates
+Ireland,2020.0,Major trading partner 1 (% of exports),United States,30.9,United States
+Ireland,2020.0,Major trading partner 1 (% of imports),United Kingdom,22.9,United Kingdom
+Ireland,2020.0,Major trading partner 2 (% of exports),Belgium,11.1,Belgium
+Ireland,2020.0,Major trading partner 2 (% of imports),United States,15.1,United States
+Ireland,2020.0,Major trading partner 3 (% of exports),Germany,10.8,Germany
+Ireland,2020.0,Major trading partner 3 (% of imports),France,11.1,France
+Italy,2020.0,Major trading partner 1 (% of exports),Germany,12.8,Germany
+Italy,2020.0,Major trading partner 1 (% of imports),Germany,16.3,Germany
+Italy,2020.0,Major trading partner 2 (% of exports),France,10.3,France
+Italy,2020.0,Major trading partner 2 (% of imports),China,8.7,China
+Italy,2020.0,Major trading partner 3 (% of exports),United States,9.8,United States
+Italy,2020.0,Major trading partner 3 (% of imports),France,8.5,France
+Japan,2020.0,Major trading partner 1 (% of exports),China,22.0,China
+Japan,2020.0,Major trading partner 1 (% of imports),China,25.8,China
+Japan,2020.0,Major trading partner 2 (% of exports),United States,18.5,United States
+Japan,2020.0,Major trading partner 2 (% of imports),United States,11.3,United States
+Japan,2020.0,Major trading partner 3 (% of exports),Republic of Korea,7.0,Republic of Korea
+Japan,2020.0,Major trading partner 3 (% of imports),Australia,5.6,Australia
+Kazakhstan,2020.0,Major trading partner 1 (% of exports),Italy,14.5,Italy
+Kazakhstan,2020.0,Major trading partner 1 (% of imports),Russian Federation,36.7,Russian Federation
+Kazakhstan,2020.0,Major trading partner 2 (% of exports),China,13.6,China
+Kazakhstan,2020.0,Major trading partner 2 (% of imports),China,17.1,China
+Kazakhstan,2020.0,Major trading partner 3 (% of exports),Russian Federation,9.7,Russian Federation
+Kazakhstan,2020.0,Major trading partner 3 (% of imports),Republic of Korea,8.9,Republic of Korea
+Kenya,2020.0,Major trading partner 1 (% of exports),Uganda,11.2,Uganda
+Kenya,2020.0,Major trading partner 1 (% of imports),China,22.0,China
+Kenya,2020.0,Major trading partner 2 (% of exports),Pakistan,8.5,Pakistan
+Kenya,2020.0,Major trading partner 2 (% of imports),India,11.5,India
+Kenya,2020.0,Major trading partner 3 (% of exports),United Kingdom,7.8,United Kingdom
+Kenya,2020.0,Major trading partner 3 (% of imports),United Arab Emirates,5.6,United Arab Emirates
+Malaysia,2020.0,Major trading partner 1 (% of exports),China,14.2,China
+Malaysia,2020.0,Major trading partner 1 (% of imports),China,20.7,China
+Malaysia,2020.0,Major trading partner 2 (% of exports),Singapore,13.9,Singapore
+Malaysia,2020.0,Major trading partner 2 (% of imports),Singapore,10.5,Singapore
+Malaysia,2020.0,Major trading partner 3 (% of exports),United States,9.7,United States
+Malaysia,2020.0,Major trading partner 3 (% of imports),United States,8.1,United States
+Mexico,2020.0,Major trading partner 1 (% of exports),United States,79.1,United States
+Mexico,2020.0,Major trading partner 1 (% of imports),United States,43.9,United States
+Mexico,2020.0,Major trading partner 2 (% of exports),Canada,2.6,Canada
+Mexico,2020.0,Major trading partner 2 (% of imports),China,19.2,China
+Mexico,2020.0,Major trading partner 3 (% of imports),Republic of Korea,3.8,Republic of Korea
+Netherlands,2020.0,Major trading partner 1 (% of exports),Germany,22.0,Germany
+Netherlands,2020.0,Major trading partner 1 (% of imports),Germany,17.7,Germany
+Netherlands,2020.0,Major trading partner 2 (% of exports),Belgium,10.3,Belgium
+Netherlands,2020.0,Major trading partner 2 (% of imports),China,10.5,China
+Netherlands,2020.0,Major trading partner 3 (% of exports),France,7.7,France
+Netherlands,2020.0,Major trading partner 3 (% of imports),Belgium,9.8,Belgium
+New Zealand,2020.0,Major trading partner 1 (% of exports),China,27.8,China
+New Zealand,2020.0,Major trading partner 1 (% of imports),China,22.6,China
+New Zealand,2020.0,Major trading partner 2 (% of exports),Australia,13.6,Australia
+New Zealand,2020.0,Major trading partner 2 (% of imports),Australia,12.1,Australia
+New Zealand,2020.0,Major trading partner 3 (% of exports),United States,11.0,United States
+New Zealand,2020.0,Major trading partner 3 (% of imports),United States,9.7,United States
+Nigeria,2020.0,Major trading partner 1 (% of exports),India,15.4,India
+Nigeria,2020.0,Major trading partner 1 (% of imports),China,25.5,China
+Nigeria,2020.0,Major trading partner 2 (% of exports),Spain,9.9,Spain
+Nigeria,2020.0,Major trading partner 2 (% of imports),India,12.0,India
+Nigeria,2020.0,Major trading partner 3 (% of exports),Netherlands,9.1,Netherlands
+Nigeria,2020.0,Major trading partner 3 (% of imports),United States,9.9,United States
+Norway,2020.0,Major trading partner 1 (% of exports),United Kingdom,17.4,United Kingdom
+Norway,2020.0,Major trading partner 1 (% of imports),China,12.1,China
+Norway,2020.0,Major trading partner 2 (% of exports),Germany,11.7,Germany
+Norway,2020.0,Major trading partner 2 (% of imports),Germany,11.5,Germany
+Norway,2020.0,Major trading partner 3 (% of exports),Netherlands,9.9,Netherlands
+Norway,2020.0,Major trading partner 3 (% of imports),Sweden,10.7,Sweden
+Pakistan,2020.0,Major trading partner 1 (% of exports),United States,18.6,United States
+Pakistan,2020.0,Major trading partner 1 (% of imports),China,27.3,China
+Pakistan,2020.0,Major trading partner 2 (% of exports),China,8.4,China
+Pakistan,2020.0,Major trading partner 2 (% of imports),United Arab Emirates,9.8,United Arab Emirates
+Pakistan,2020.0,Major trading partner 3 (% of exports),United Kingdom,7.8,United Kingdom
+Pakistan,2020.0,Major trading partner 3 (% of imports),United States,5.6,United States
+Panama,2020.0,Major trading partner 1 (% of imports),China,24.7,China
+Panama,2020.0,Major trading partner 2 (% of exports),United States,11.8,United States
+Panama,2020.0,Major trading partner 2 (% of imports),United States,16.2,United States
+Panama,2020.0,Major trading partner 3 (% of imports),Japan,13.0,Japan
+Poland,2020.0,Major trading partner 1 (% of exports),Germany,28.9,Germany
+Poland,2020.0,Major trading partner 1 (% of imports),Germany,21.9,Germany
+Poland,2020.0,Major trading partner 2 (% of imports),China,14.4,China
+Poland,2020.0,Major trading partner 3 (% of exports),United Kingdom,5.7,United Kingdom
+Poland,2020.0,Major trading partner 3 (% of imports),Italy,5.0,Italy
+Portugal,2020.0,Major trading partner 1 (% of exports),Spain,25.4,Spain
+Portugal,2020.0,Major trading partner 1 (% of imports),Spain,32.6,Spain
+Portugal,2020.0,Major trading partner 2 (% of exports),France,13.5,France
+Portugal,2020.0,Major trading partner 2 (% of imports),Germany,13.3,Germany
+Portugal,2020.0,Major trading partner 3 (% of exports),Germany,11.8,Germany
+Portugal,2020.0,Major trading partner 3 (% of imports),France,7.4,France
+Republic of Korea,2020.0,Major trading partner 1 (% of exports),China,25.9,China
+Republic of Korea,2020.0,Major trading partner 1 (% of imports),China,23.3,China
+Republic of Korea,2020.0,Major trading partner 2 (% of exports),United States,14.5,United States
+Republic of Korea,2020.0,Major trading partner 2 (% of imports),United States,12.4,United States
+Republic of Korea,2020.0,Major trading partner 3 (% of exports),Viet Nam,9.5,Viet Nam
+Republic of Korea,2020.0,Major trading partner 3 (% of imports),Japan,9.8,Japan
+Romania,2020.0,Major trading partner 1 (% of exports),Germany,22.8,Germany
+Romania,2020.0,Major trading partner 1 (% of imports),Germany,20.8,Germany
+Romania,2020.0,Major trading partner 2 (% of exports),Italy,10.7,Italy
+Romania,2020.0,Major trading partner 2 (% of imports),Italy,8.9,Italy
+Romania,2020.0,Major trading partner 3 (% of exports),France,6.7,France
+Russian Federation,2020.0,Major trading partner 1 (% of exports),China,13.4,China
+Russian Federation,2020.0,Major trading partner 1 (% of imports),China,21.9,China
+Russian Federation,2020.0,Major trading partner 2 (% of exports),Netherlands,10.5,Netherlands
+Russian Federation,2020.0,Major trading partner 2 (% of imports),Germany,10.2,Germany
+Russian Federation,2020.0,Major trading partner 3 (% of exports),Germany,6.6,Germany
+Saudi Arabia,2020.0,Major trading partner 1 (% of exports),Areas nes,80.4,Areas nes
+Saudi Arabia,2020.0,Major trading partner 1 (% of imports),China,18.8,China
+Saudi Arabia,2020.0,Major trading partner 2 (% of exports),China,3.7,China
+Saudi Arabia,2020.0,Major trading partner 2 (% of imports),United States,11.8,United States
+Saudi Arabia,2020.0,Major trading partner 3 (% of exports),United Arab Emirates,1.7,United Arab Emirates
+Saudi Arabia,2020.0,Major trading partner 3 (% of imports),United Arab Emirates,7.2,United Arab Emirates
+Senegal,2020.0,Major trading partner 1 (% of imports),France,15.7,France
+Senegal,2020.0,Major trading partner 2 (% of exports),Switzerland,12.4,Switzerland
+Senegal,2020.0,Major trading partner 2 (% of imports),China,9.2,China
+Senegal,2020.0,Major trading partner 3 (% of exports),India,7.6,India
+Senegal,2020.0,Major trading partner 3 (% of imports),Netherlands,6.2,Netherlands
+Serbia,2020.0,Major trading partner 1 (% of exports),Germany,12.9,Germany
+Serbia,2020.0,Major trading partner 1 (% of imports),Germany,13.6,Germany
+Serbia,2020.0,Major trading partner 2 (% of exports),Italy,8.4,Italy
+Serbia,2020.0,Major trading partner 2 (% of imports),China,12.5,China
+Serbia,2020.0,Major trading partner 3 (% of imports),Italy,8.4,Italy
+Singapore,2020.0,Major trading partner 1 (% of exports),China,13.2,China
+Singapore,2020.0,Major trading partner 1 (% of imports),China,13.7,China
+Singapore,2020.0,Major trading partner 2 (% of exports),"China, Hong Kong SAR",11.4,"China, Hong Kong SAR"
+Singapore,2020.0,Major trading partner 2 (% of imports),United States,12.2,United States
+Singapore,2020.0,Major trading partner 3 (% of exports),Malaysia,10.5,Malaysia
+Singapore,2020.0,Major trading partner 3 (% of imports),Malaysia,11.6,Malaysia
+South Africa,2020.0,Major trading partner 1 (% of exports),China,11.5,China
+South Africa,2020.0,Major trading partner 1 (% of imports),China,20.8,China
+South Africa,2020.0,Major trading partner 2 (% of exports),United States,8.4,United States
+South Africa,2020.0,Major trading partner 2 (% of imports),Germany,9.1,Germany
+South Africa,2020.0,Major trading partner 3 (% of exports),Areas nes,8.1,Areas nes
+South Africa,2020.0,Major trading partner 3 (% of imports),United States,6.4,United States
+Spain,2020.0,Major trading partner 1 (% of exports),France,15.4,France
+Spain,2020.0,Major trading partner 1 (% of imports),Germany,11.8,Germany
+Spain,2020.0,Major trading partner 2 (% of exports),Germany,10.8,Germany
+Spain,2020.0,Major trading partner 2 (% of imports),China,10.2,China
+Spain,2020.0,Major trading partner 3 (% of exports),Italy,7.5,Italy
+Spain,2020.0,Major trading partner 3 (% of imports),France,9.9,France
+Sweden,2020.0,Major trading partner 1 (% of exports),Norway,10.5,Norway
+Sweden,2020.0,Major trading partner 1 (% of imports),Germany,18.2,Germany
+Sweden,2020.0,Major trading partner 2 (% of exports),Germany,10.4,Germany
+Sweden,2020.0,Major trading partner 2 (% of imports),Netherlands,9.8,Netherlands
+Sweden,2020.0,Major trading partner 3 (% of exports),United States,8.1,United States
+Sweden,2020.0,Major trading partner 3 (% of imports),Norway,9.0,Norway
+Switzerland,2020.0,Major trading partner 1 (% of exports),United States,23.0,United States
+Switzerland,2020.0,Major trading partner 1 (% of imports),Germany,19.5,Germany
+Switzerland,2020.0,Major trading partner 2 (% of exports),Germany,15.4,Germany
+Switzerland,2020.0,Major trading partner 2 (% of imports),Italy,8.2,Italy
+Switzerland,2020.0,Major trading partner 3 (% of exports),China,5.5,China
+Switzerland,2020.0,Major trading partner 3 (% of imports),United States,7.2,United States
+Thailand,2020.0,Major trading partner 1 (% of exports),United States,12.7,United States
+Thailand,2020.0,Major trading partner 1 (% of imports),China,21.1,China
+Thailand,2020.0,Major trading partner 2 (% of exports),China,12.0,China
+Thailand,2020.0,Major trading partner 2 (% of imports),Japan,14.0,Japan
+Thailand,2020.0,Major trading partner 3 (% of exports),Japan,9.9,Japan
+Thailand,2020.0,Major trading partner 3 (% of imports),United States,7.4,United States
+Trinidad and Tobago,2020.0,Major trading partner 1 (% of exports),United States,34.5,United States
+Trinidad and Tobago,2020.0,Major trading partner 1 (% of imports),United States,46.0,United States
+Trinidad and Tobago,2020.0,Major trading partner 2 (% of exports),Spain,7.6,Spain
+Trinidad and Tobago,2020.0,Major trading partner 2 (% of imports),China,6.6,China
+Trinidad and Tobago,2020.0,Major trading partner 3 (% of exports),China,4.4,China
+Turkey,2020.0,Major trading partner 1 (% of exports),Germany,9.4,Germany
+Turkey,2020.0,Major trading partner 1 (% of imports),China,10.5,China
+Turkey,2020.0,Major trading partner 2 (% of exports),United Kingdom,6.6,United Kingdom
+Turkey,2020.0,Major trading partner 2 (% of imports),Germany,9.9,Germany
+Turkey,2020.0,Major trading partner 3 (% of exports),United States,6.0,United States
+Turkey,2020.0,Major trading partner 3 (% of imports),Russian Federation,8.1,Russian Federation
+Uganda,2020.0,Major trading partner 1 (% of exports),United Arab Emirates,44.5,United Arab Emirates
+Uganda,2020.0,Major trading partner 1 (% of imports),China,16.4,China
+Uganda,2020.0,Major trading partner 2 (% of exports),Kenya,11.2,Kenya
+Uganda,2020.0,Major trading partner 2 (% of imports),India,11.6,India
+Uganda,2020.0,Major trading partner 3 (% of imports),Kenya,9.4,Kenya
+United Arab Emirates,2020.0,Major trading partner 1 (% of exports),Areas nes,51.8,Areas nes
+United Arab Emirates,2020.0,Major trading partner 1 (% of imports),China,16.4,China
+United Arab Emirates,2020.0,Major trading partner 2 (% of exports),Saudi Arabia,6.2,Saudi Arabia
+United Arab Emirates,2020.0,Major trading partner 2 (% of imports),India,10.7,India
+United Arab Emirates,2020.0,Major trading partner 3 (% of exports),India,3.8,India
+United Arab Emirates,2020.0,Major trading partner 3 (% of imports),United States,8.0,United States
+United Kingdom,2020.0,Major trading partner 1 (% of exports),United States,14.4,United States
+United Kingdom,2020.0,Major trading partner 1 (% of imports),China,11.9,China
+United Kingdom,2020.0,Major trading partner 2 (% of exports),Germany,10.3,Germany
+United Kingdom,2020.0,Major trading partner 2 (% of imports),Germany,11.6,Germany
+United Kingdom,2020.0,Major trading partner 3 (% of exports),Ireland,6.8,Ireland
+United Kingdom,2020.0,Major trading partner 3 (% of imports),United States,9.2,United States
+Viet Nam,2020.0,Major trading partner 1 (% of exports),United States,23.2,United States
+Viet Nam,2020.0,Major trading partner 1 (% of imports),China,29.8,China
+Viet Nam,2020.0,Major trading partner 2 (% of exports),China,15.7,China
+Viet Nam,2020.0,Major trading partner 2 (% of imports),Republic of Korea,18.5,Republic of Korea
+Viet Nam,2020.0,Major trading partner 3 (% of exports),Japan,7.7,Japan
+Viet Nam,2020.0,Major trading partner 3 (% of imports),Japan,7.7,Japan
